@@ -1,0 +1,4 @@
+{
+  "class name": "sample_app",
+  "code_snippet": "using System;\nclass Intern_exercise{\n    static void Main(){\n        int n=5,i=0;\n        Console.WriteLine(\"It is a smaple application for converting a C# application to json file\");\n        while(i<n){\n            Console.WriteLine(\"Loop time :\"+i);\n            i++;\n        }\n        Console.WriteLine(\"Program finished\");\n    }\n}"
+}
